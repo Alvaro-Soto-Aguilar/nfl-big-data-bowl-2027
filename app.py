@@ -3,8 +3,6 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
-from sklearn.ensemble import RandomForestRegressor
-from sklearn.model_selection import train_test_split
 
 st.set_page_config(page_title="NFL Big Data Bowl 2027 - WR Burst Index", layout="wide")
 
